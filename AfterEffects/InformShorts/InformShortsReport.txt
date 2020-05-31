@@ -1,3 +1,4 @@
+
 Report created: 
 	25-05-2020	19:37:11
 
@@ -37,4 +38,46 @@ Rendering plug-ins:
 Layer:  Text Layer
 	External dependencies:  
 		Font family: “Proxima Nova”, Font style: “Bold”
+
+=======
+Report created: 
+	25-05-2020	19:37:11
+
+Project name: InformShorts.aep
+
+Source files collected to: 
+	A:\InformEdge\AfterEffects\InformShorts
+
+Source files collected: All
+
+Collected comps:  
+	intro
+	VideoSLOT
+	MAIN
+	TITLE
+	Sound_composition
+	VideoSLOT 2
+	VideoSLOT 3
+	VideoSLOT 4
+	
+Number of collected files:  7
+
+Size of collected files:  7.5 MB
+
+Collected source files: 
+	A:\InformEdge\AfterEffects\sounds\bensound-betterdays.mp3
+	A:\InformEdge\AfterEffects\sounds\bensound-perception.mp3
+	A:\InformEdge\Logo_Files\650px\InformEdge_WHITE_NEGATIVE.png
+	C:\Users\dears\Desktop\InformEdge2\25014.jpg
+	C:\Users\dears\Desktop\InformEdge2\A4JWNx-4UCHKvkzI.mp4
+	C:\Users\dears\Desktop\InformEdge2\EYsXifvU8AAJ4wQ.jpg
+	C:\Users\dears\Desktop\InformEdge2\locust-swarm-kenya-15.adapt.1900.1.jpg
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Proxima Nova”, Font style: “Bold”
+
 
